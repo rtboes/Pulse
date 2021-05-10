@@ -1,2 +1,2 @@
 # Pulse
-This is a primer on topic modeling and applying to project pulse with respect to suport and ticketing systems
+Applying topic modelling machine learning to support tickets to identify end-user friction points
